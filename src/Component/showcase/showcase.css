@@ -1,0 +1,10 @@
+.showcase {
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  font-weight: 500;
+  color: white;
+  /* background-color: rgb(150, 76, 184); */
+}
